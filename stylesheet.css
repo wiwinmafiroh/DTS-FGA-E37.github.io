@@ -240,6 +240,19 @@ header {
 
 
 /*Awal Content 2*/
+<<<<<<< HEAD
+=======
+/* .content-2 {
+  box-sizing: border-box;
+  flex-wrap: wrap;
+}
+
+.batas {
+  margin: 0 135px;
+  border-top: 1px solid rgb(229, 229, 229);
+}
+
+>>>>>>> wiwin
 .section-title {
   font-weight: 500;
   font-size: 28px;
@@ -299,7 +312,7 @@ header {
   font-weight: 300;
   margin: 8px 0 16px 0;
   line-height: 1.5;
-}
+} */
 
 /*Akhir Content 2*/
 
