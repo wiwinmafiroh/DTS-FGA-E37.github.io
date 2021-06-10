@@ -39,7 +39,21 @@
   }
 
   .batas {
-    margin: 0 100px;
+    margin: 5rem 0;
+    padding: 0;
+    box-sizing: content-box;
+  }
+
+  .content-3 {
+    padding: 0 0 100px 0;
+  }
+
+  .tryout-content {
+    width: 100%;
+  }
+
+  .tryout-content p {
+    margin-bottom: 10px;
   }
 
   .col-10 {
@@ -50,6 +64,8 @@
     width: 10px;
   }
 }
+
+
 
 /* Untuk Smartphone */
 @media all and (max-width: 670px) {
@@ -92,7 +108,21 @@
   }
 
   .batas {
-    margin: 0 30px;
+    margin: 5rem 0;
+    padding: 0;
+    box-sizing: content-box;
+  }
+
+  .content-3 {
+    padding: 0 0 100px 0;
+  }
+
+  .tryout-content {
+    width: 100%;
+  }
+
+  .tryout-content p {
+    margin-bottom: 10px;
   }
 
   .col-10 {
