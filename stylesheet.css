@@ -249,8 +249,8 @@ header {
 }
 
 .batas {
-  margin: 0 135px ;
-  border-top: 1px solid rgb(229,229,229);
+  margin: 0 135px;
+  border-top: 1px solid rgb(229, 229, 229);
 }
 
 .section-title {
@@ -267,18 +267,18 @@ header {
   box-sizing: border-box;
   font-family: 'Roboto', sans-serif;
   display: flex;
-} 
+}
 
 .col-3 {
   height: 128px;
   width: 100%;
   display: flex;
   float: left;
-  margin : 10px 0;
+  margin: 10px 0;
   padding: 0 10px;
 }
 
-.col-2{
+.col-2 {
   height: 128px;
   width: 47px;
   padding-right: 15px;
@@ -287,21 +287,22 @@ header {
   margin-right: 10px;
 }
 
-.col-10{
+.col-10 {
   height: 120px;
   width: 238px;
   padding: 0 15px;
 }
 
 .col-10 h5 {
-  color: #212529;  ;
+  color: #212529;
+  ;
   height: 24px;
   width: 207px;
   font-size: 20px;
   font-weight: 300;
 }
 
-.col-10 p{
+.col-10 p {
   color: #9e9e9e;
   height: 96px;
   width: 207px;
