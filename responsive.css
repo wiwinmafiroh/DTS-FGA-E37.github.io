@@ -1,6 +1,24 @@
 /* Untuk Tablet */
 @media all and (max-width: 1000px) {
 
+  header {
+    padding: 18px 50px 0;
+    background-color: #1C2331;
+  }
+
+  .header-list a {
+    display: none;
+  }
+
+  .container .header-right a {
+    display: none;
+  }
+
+  .menu-icon {
+    display: block !important;
+    margin-top: -23px;
+  }
+
   .red-content,
   .green-content {
     display: block;
@@ -11,7 +29,7 @@
   }
 
   .content-1-items {
-    width: 90%;
+    width: 80%;
     margin: 30px auto;
   }
 
@@ -36,6 +54,24 @@
 /* Untuk Smartphone */
 @media all and (max-width: 670px) {
 
+  header {
+    padding: 18px 5px 0;
+    background-color: #1C2331;
+  }
+
+  .header-list a {
+    display: none;
+  }
+
+  .container .header-right a {
+    display: none;
+  }
+
+  .menu-icon {
+    display: block !important;
+    margin-top: -23px;
+  }
+
   .content-1 {
     padding: 0;
   }
@@ -46,7 +82,7 @@
   }
 
   .content-1-items {
-    width: 90%;
+    width: 95%;
     margin: 30px auto;
   }
 

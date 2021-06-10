@@ -91,6 +91,13 @@ header {
   margin-top: -8px;
 }
 
+.menu-icon {
+  display: none !important;
+  color: white !important;
+  float: right;
+  padding: 21px 0;
+}
+
 .container .header-list a {
   float: left;
   color: rgba(255, 255, 255, .90);
@@ -103,15 +110,6 @@ header {
   margin-right: 20px;
   padding: 0px 6px;
   background-color: transparent;
-}
-
-.container .menu-icon {
-  color: #2f8be1;
-  float: right;
-  font-size: 35px;
-  padding: 21px 0;
-  display: none;
-  margin-right: 50px;
 }
 
 /* Akhir Header */
